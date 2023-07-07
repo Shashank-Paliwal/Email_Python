@@ -1,2 +1,0 @@
-# Email_Python
-EMAIL SENDING TEST
